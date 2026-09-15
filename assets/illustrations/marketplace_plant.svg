@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<ellipse cx="200" cy="266" rx="75" ry="12" fill="#1F6948" opacity=".1"/>
+<path d="M136 159h128l-13 90c-2 13-11 19-23 19h-56c-12 0-21-6-23-19l-13-90Z" fill="#D28B58"/>
+<ellipse cx="200" cy="160" rx="65" ry="18" fill="#B9744C"/>
+<path d="M200 157V66" stroke="#3D8750" stroke-width="9" stroke-linecap="round"/>
+<path d="M196 101c-28-7-44-24-42-45 25 1 43 17 42 45ZM205 115c31-8 48-26 46-47-27 2-45 19-46 47ZM200 76c-16-12-21-28-15-42 19 6 25 22 15 42Z" fill="url(#leaf)"/>
+</svg>

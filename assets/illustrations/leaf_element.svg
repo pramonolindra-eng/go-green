@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="150" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs><path d="M20 90C25 43 58 17 103 21c-2 47-34 77-83 69Z" fill="url(#leaf)"/><path d="M27 84 90 31" stroke="#D9EEC7" stroke-width="4" stroke-linecap="round"/><path d="M94 133c4-38 29-59 65-56-2 38-28 61-65 56Z" fill="#7DC385"/><path d="M99 126 145 83" stroke="#E3F2D8" stroke-width="4" stroke-linecap="round"/></svg>

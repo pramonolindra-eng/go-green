@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<circle cx="91" cy="100" r="42" fill="#F1B08A"/>
+<path d="M49 94c1-42 28-60 51-54 24 6 33 27 33 55-18-17-55-19-84-1Z" fill="#174C38"/>
+<path d="M43 154c0-17 14-31 31-31h34c17 0 31 14 31 31v59c0 17-14 31-31 31H74c-17 0-31-14-31-31v-59Z" fill="url(#green)"/>
+<path d="M285 83c-26-7-42-25-39-47 28 2 44 19 39 47ZM318 116c22-19 45-19 57-7-9 24-31 31-57 7Z" fill="#73B97C"/>
+<path d="M294 178c-2-39 8-69 31-92" stroke="#4C985B" stroke-width="7" stroke-linecap="round"/>
+</svg>

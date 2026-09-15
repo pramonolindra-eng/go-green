@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="300" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<path d="M20 263c58-31 120-31 190 0v37H20v-37Z" fill="#B6DDAA"/>
+<ellipse cx="205" cy="272" rx="68" ry="9" fill="#1F6948" opacity=".12"/>
+<circle cx="150" cy="102" r="25" fill="url(#skin)"/>
+<path d="M125 98c2-24 19-35 35-32 16 2 25 15 26 33-15-10-39-11-61-1Z" fill="#194F39"/>
+<path d="M121 137c0-9 7-16 16-16h27c9 0 16 7 16 16v75c0 9-7 16-16 16h-27c-9 0-16-7-16-16v-75Z" fill="url(#green)"/>
+<path d="M131 145c-13 13-25 27-31 41" stroke="#E9A37E" stroke-width="10" stroke-linecap="round"/>
+<path d="M168 145c14 9 24 18 34 31" stroke="#E9A37E" stroke-width="10" stroke-linecap="round"/>
+<path d="M137 228l-5 41M164 228l5 41" stroke="#1C5039" stroke-width="10" stroke-linecap="round"/>
+<!-- bin -->
+<path d="M222 135h64l-6 122c-1 11-9 17-20 17h-17c-11 0-19-6-20-17l-6-122Z" fill="#2D8152"/>
+<rect x="215" y="123" width="78" height="17" rx="8" fill="#18593D"/>
+<path d="M239 180l12 12 21-27" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 77c-16-5-25-19-21-32 18 1 29 14 21 32ZM304 85c1-18 12-29 27-29 3 16-7 27-27 29Z" fill="#67B873"/>
+</svg>

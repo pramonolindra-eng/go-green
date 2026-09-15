@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<rect width="400" height="300" rx="20" fill="#E5F2DD"/>
+<path d="M0 240c68-38 139-34 202 4 62-35 132-36 198-6v62H0v-60Z" fill="#A9D49D"/>
+<rect x="104" y="80" width="75" height="139" rx="19" fill="#F7F6EF" stroke="#D5D9CB" stroke-width="5"/>
+<rect x="123" y="55" width="38" height="30" rx="8" fill="#76AFC2"/>
+<rect x="119" y="48" width="46" height="12" rx="6" fill="#5C8FA0"/>
+<path d="M145 118c19-16 39-15 49-5-8 21-26 28-49 5ZM205 141c22-18 44-17 55-6-9 23-29 30-55 6ZM262 103c19-15 38-14 48-4-7 20-25 27-48 4Z" fill="#5BA667"/>
+<path d="M239 214c-2-29 6-52 26-69" stroke="#4C985B" stroke-width="6" stroke-linecap="round"/>
+<path d="M259 145c-17-5-26-17-23-30 18 2 28 12 23 30Z" fill="#78BD7D"/>
+</svg>

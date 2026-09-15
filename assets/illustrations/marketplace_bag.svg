@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<ellipse cx="200" cy="265" rx="90" ry="13" fill="#1F6948" opacity=".1"/>
+<path d="M120 90h160l-13 157c-2 14-10 21-25 21H158c-15 0-23-7-25-21L120 90Z" fill="#E5DCC9"/>
+<path d="M153 98c2-63 92-63 94 0" stroke="#8E806A" stroke-width="15" stroke-linecap="round"/>
+<path d="M200 145c-21 17-31 35-30 55 11 9 20 14 30 14s20-5 30-14c1-20-9-38-30-55Z" fill="#78A66E"/>
+<path d="M200 157v53" stroke="#557A51" stroke-width="4" stroke-linecap="round"/>
+</svg>

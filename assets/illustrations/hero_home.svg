@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="310" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<path d="M220 256c36-42 87-55 180-35v79H170c3-17 20-31 50-44Z" fill="#B8DDAA"/>
+<path d="M220 271c45-27 107-28 180-6v35H180c5-13 18-22 40-29Z" fill="#91C995"/>
+<circle cx="325" cy="77" r="53" fill="#E7F3D9" opacity=".75"/>
+<!-- person -->
+<ellipse cx="245" cy="255" rx="34" ry="9" fill="#236843" opacity=".12"/>
+<path d="M229 123c0-20 12-33 31-33s31 13 31 33v11h-62v-11Z" fill="#1D523B"/>
+<circle cx="260" cy="128" r="26" fill="url(#skin)"/>
+<path d="M234 120c2-22 18-32 33-30 15 2 23 13 24 29-12-9-35-10-57 1Z" fill="#174B37"/>
+<path d="M230 159c0-9 7-16 16-16h28c9 0 16 7 16 16v58c0 8-7 15-15 15h-30c-8 0-15-7-15-15v-58Z" fill="url(#green)"/>
+<path d="M239 166c-8 13-19 23-28 33" stroke="#EAA37F" stroke-width="10" stroke-linecap="round"/>
+<path d="M281 166c11 13 19 23 28 31" stroke="#EAA37F" stroke-width="10" stroke-linecap="round"/>
+<path d="M245 230l-4 39M274 230l5 39" stroke="#1D523B" stroke-width="10" stroke-linecap="round"/>
+<!-- bin -->
+<path d="M319 147h54l-6 104c-1 10-8 16-18 16h-18c-10 0-17-6-18-16l-6-104Z" fill="#2D8051"/>
+<rect x="312" y="137" width="68" height="15" rx="7.5" fill="#18583D"/>
+<path d="M337 175l10 10 17-22" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- plants -->
+<path d="M385 245c-2-30 2-56 15-78" stroke="#3B8751" stroke-width="5" stroke-linecap="round"/>
+<path d="M398 178c-18-4-27-18-25-31 16 1 28 11 25 31Z" fill="url(#leaf)"/>
+<path d="M396 199c14-14 29-15 37-8-7 15-20 20-37 8Z" fill="#4D9D60"/>
+<path d="M214 95c-16-7-21-20-16-31 15 3 23 14 16 31Z" fill="#6FBA77"/>
+<path d="M205 83c-2-17 7-27 19-29 5 13-2 25-19 29Z" fill="#4D9D60"/>
+</svg>

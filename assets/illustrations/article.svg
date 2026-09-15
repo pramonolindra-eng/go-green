@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+<defs>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78C982"/><stop offset="1" stop-color="#2F8653"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD0AE"/><stop offset="1" stop-color="#E8A27E"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49A866"/><stop offset="1" stop-color="#207148"/></linearGradient>
+ <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7D96B"/><stop offset="1" stop-color="#D9A82E"/></linearGradient>
+</defs>
+<rect width="400" height="300" rx="20" fill="#E5F2DD"/>
+<path d="M0 236c72-45 134-38 200 0 70-43 134-40 200-5v69H0v-64Z" fill="#A9D49D"/>
+<path d="M0 255c72-33 133-25 200 5 68-31 131-31 200-7v47H0v-45Z" fill="#7FBE8B" opacity=".75"/>
+<path d="M200 239V106" stroke="#765239" stroke-width="17" stroke-linecap="round"/>
+<path d="M200 145C164 128 141 101 135 69M200 161c39-20 64-49 70-81" stroke="#765239" stroke-width="10" stroke-linecap="round"/>
+<path d="M143 72c-25 4-44-9-48-29 26-9 47 1 48 29ZM262 80c25 4 44-9 48-29-26-9-47 1-48 29ZM181 112c-27-3-43-19-43-39 25-3 43 11 43 39ZM219 119c28-3 44-18 45-38-25-4-44 9-45 38Z" fill="url(#leaf)"/>
+<path d="M82 224c6-20 18-34 35-43M318 226c-6-20-18-34-35-43" stroke="#4E9A5C" stroke-width="6" stroke-linecap="round"/>
+</svg>
